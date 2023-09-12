@@ -5,4 +5,4 @@ print("test1, hello")
 print("test1, good bye")
 print("test2, Hi!")
 
-print("Hello, jin")
+print("Hello, Jin")
